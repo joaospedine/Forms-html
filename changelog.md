@@ -20,11 +20,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - git commit -m "chore: removendo arquivo.txt"
 
 ### fix - correções
-- git commit -m "chore: removendo arquivo.txt"
+- git commit -m "fix: correção no cálculo de médias"
 
 ### Feat - inclusão de funcionalidade
-- git commit -m "chore: removendo arquivo.txt"
+- git commit -m "fest: inclusão de função para calcular medianas"
 
 ### Docs - atualização de documentação
-- git commit -m "chore: removendo arquivo.txt"
+- git commit -m "docs: atualizando o changelog.md"
 
